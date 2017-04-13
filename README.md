@@ -9,6 +9,7 @@ The repo contains tool cribs for Solidworks HSMWorks, Autodesk Fusion 360, and a
 1. [Cutter Assumptions](#cutter-assumptions)
 2. [Cutting Depth Table](#cutting-depth-table)
 3. [Installation Instructions](#installation-instructions)
+   1. [Downloads](#installation-instructions)
    1. [HSMWorks](#solidworks-hsmworks)
    2. [Fusion 360](#fusion-360)
 
@@ -28,6 +29,8 @@ Diameter | Depth of Cut (DoC)
 0.125" | 0.06"
 
 ## Installation Instructions ##
+You must first [download](https://github.com/jonkomperda/mHubShopBot/releases) the most current version from the [Releases page](https://github.com/jonkomperda/mHubShopBot/releases).
+
 ### Solidworks HSMWorks ###
 1. Go to the CAM tab
 2. Select "Tool Library"
